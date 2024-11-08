@@ -23,8 +23,9 @@ const Hero = () => {
           </p>
 
           <Link
-            href="/contact"
+            href="#contact"
             className="mt-8 inline-block px-8 py-3 rounded-lg bg-primary text-white hover:bg-primary/90 transition-colors"
+            scroll={true}
           >
             Contáctame
           </Link>

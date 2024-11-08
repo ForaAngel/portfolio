@@ -83,7 +83,11 @@ const Header = () => {
 
         {/* CV button on the right */}
         <div className="hidden lg:flex">
-          <Link href="/your-cv.pdf" className="btn btn-primary" download>
+          <Link
+            href="/CurriculumAngelD.pdf"
+            className="btn btn-primary"
+            download="CurriculumAngelD.pdf"
+          >
             Mi CV
           </Link>
         </div>
@@ -136,9 +140,9 @@ const Header = () => {
             </div>
             <div className="divider"></div>
             <Link
-              href="/your-cv.pdf"
+              href="/angel-delgado-cv.pdf"
               className="btn btn-primary w-full"
-              download
+              download="angel-delgado-cv.pdf"
             >
               Mi CV
             </Link>

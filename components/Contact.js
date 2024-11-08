@@ -6,7 +6,7 @@ const Contact = () => {
   const tidycalUrl = "https://tidycal.com/elforadev/15-minute-meeting";
 
   return (
-    <section className="py-20 bg-base-100">
+    <section id="contact" className="py-20 bg-base-100">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto bg-base-200 rounded-2xl p-8 md:p-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-center">

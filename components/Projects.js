@@ -15,14 +15,14 @@ const projects = [
     description:
       "Diseño de una landing page para una empresa de desarrollo de software.",
     image: "/Aura-mockup.png",
-    link: "https://proyecto2.com",
+    link: "https://aura-portfolio.vercel.app",
     tags: ["Framer Motion", "Next.js", "Tailwind"],
   },
   {
     title: "Luxe",
     description: "Diseño de una landing page para una joyeria.",
     image: "/Luxe-mockup.png",
-    link: "https://proyecto3.com",
+    link: "https://luxe-blond.vercel.app",
     tags: ["Next.js", "Framer Motion", "Tailwind"],
   },
 ];
