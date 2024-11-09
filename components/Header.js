@@ -84,7 +84,7 @@ const Header = () => {
         {/* CV button on the right */}
         <div className="hidden lg:flex">
           <Link
-            href="/CurriculumAngelD.pdf"
+            href="/CurriculumAngelLD.pdf"
             className="btn btn-primary"
             download="CurriculumAngelD.pdf"
           >
