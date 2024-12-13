@@ -25,6 +25,21 @@ const projects = [
     link: "https://luxe-blond.vercel.app",
     tags: ["Next.js", "Framer Motion", "Tailwind"],
   },
+  {
+    title: "Predep",
+    description:
+      "Aplicacion web de prediccion de resultados de partidos de deportes.",
+    image: "/predep-mockup.png",
+    link: "https://www.predep.tech",
+    tags: ["Next.js", "MongoDB", "tailwind"],
+  },
+  {
+    title: "Hablar con santa",
+    description: "Aplicacion web para hablar con santa mediante IA.",
+    image: "/santa-mockup.png",
+    link: "https://www.hablarconsanta.com",
+    tags: ["Next.js", "Bland AI", "MongoDB"],
+  },
 ];
 
 const Projects = () => {
